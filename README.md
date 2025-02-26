@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/474x/bb/c8/01/bbc801b2cfe9cadb062f80ada33fa03d.jpg"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="left">more of me</h2>
@@ -41,23 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Eri Nav">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Eri%20Nav&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Eri Nav">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Eri%20Nav&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
