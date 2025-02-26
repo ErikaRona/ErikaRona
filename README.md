@@ -1,4 +1,4 @@
-<h2> align="left">Hi 👋! My name is Erika and soy una programadora de Java  </h2>
+<h2> Hi 👋! My name is Erika and soy una programadora de Java  </h2>
 
 ###
 
